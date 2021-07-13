@@ -29,6 +29,8 @@ public enum UF {
 	SE("SE", "Sergipe"),
 	TO("TO", "Tocantins");
 	
+	
+	
 	private String sigla;
 	private String descricao;
 	
